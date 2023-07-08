@@ -1,0 +1,6 @@
+This online reservation system is built using a simple console-based application that allows users to make, view, and cancel reservations.
+An array list has been used in this class to make things simple for adding reservations by using the add function and deleting reservations with the remove function.
+The user interface will be based on a simple console-based interface that allows users to interact with the reservation system.
+For the inputs from the user, we have used the scanner class. In while loop, all the options have been mentioned as – Make a reservation, view all reservations, Cancel a reservation and Exit.
+Reservations can simply be made by giving the user's information and calling the make reservation method. It will return the output as a reservation ID.
+Cancellation of reservations takes place by ID. It will delete the reservation for the given ID. Summing up all the things, OOPS and some basic Java concepts are the core of this system. 
