@@ -1,0 +1,4 @@
+I designed this very simple quiz website by mainly using HTML, CSS and JS
+This app allows users to answer a set of multiple-choice questions within a specified time limit.
+After completing the quiz, users receive immediate feedback on their answers, including the number of correct and incorrect responses. 
+The app also calculates the overall score and displays it to the user.
