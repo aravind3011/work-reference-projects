@@ -1,0 +1,17 @@
+This is the weather app used to show accurate weather with the open weather API.
+
+1. First, we will create a constant object variable, which will store our object base and key values.
+
+2. Then, by using document.queryselector, We will select our input search box, and we will add a Keypress event listener to it, which we will attach to a function called setQuery.
+
+3. Create another function that fetches the weather details using the API, and then it will return the weather details using the json() method.
+
+4. Then create a function that will push all the output into our HTML element so that we can display the weather details on our webpage.
+
+5. Now we can also create the function by which we will fetch the current date and year from the user’s browser.
+
+5.1. Now inside that, we will create an array for the months in a year.
+
+5.2. A week’s worth of days in an array
+
+5.3. Now using the.getDay and date() methods, we will fetch the current date and store it into the variables, and using those variables, we will display it as our output.
