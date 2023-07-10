@@ -5,9 +5,29 @@ const quizQuestions = [
       correctAnswer: "Tokyo"
     },
     {
-      question: "Which planet is known as the Biggest Planet?",
+      question: "Which planet has the most moons?",
       options: ["Venus", "Mars", "Jupiter", "Saturn"],
-      correctAnswer: "Jupiter"
+      correctAnswer: "Saturn"
+    },
+     {
+      question: "How many time zones are there in Russia?",
+      options: ["10", "11", "14", "9"],
+      correctAnswer: "11"
+    },
+     {
+      question: "How many minutes are in a full week?",
+      options: ["10,080", "11,750", "13,200", "8,720"],
+      correctAnswer: "10,080"
+    },
+      {
+      question: "What’s the national flower of Japan?",
+      options: ["Cherry blossoms", "wisteria", "Rose", "chrysanthemum"],
+      correctAnswer: "Cherry blossoms"
+    },
+     {
+      question: "How many elements are in the periodic table?",
+      options: ["123", "142", "118", "116"],
+      correctAnswer: "118"
     },
     {
       question: "What country has the highest population in the world?",
